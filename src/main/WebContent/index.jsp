@@ -3,8 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+	<meta charset="ISO-8859-1">
+	<title>Sistema Libreria</title>
+
+	<link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/estilos1.css" />
 </head>
 <body>
 
